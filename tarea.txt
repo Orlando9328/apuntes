@@ -1,0 +1,6 @@
+- Agregar modificaciones y hacer commit
+- Agregar comandos mkdir(crear carpeta), cd (seleccionar-entrar carpeta) y cd .. (Salir carpeta) al archivo apuntes comando
+- Recuperar cuenta de git
+- Enlazar mi archivo de apuntes comando y apuntes html con mis archivos de style.css e index.js
+- Agregar las etiquetas html nuevas a mi archivo de apuntes apuntes-html.html
+- Una vez terminado todo esto agregarlo y crear commit
