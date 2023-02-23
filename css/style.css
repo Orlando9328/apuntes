@@ -34,9 +34,11 @@ div{
     width: 100px;
     background-color: aquamarine;
     height: 100px;
-    /*margin: 300px; esto es un comentario*/
+    /*margin: 300px; esto es un comentario
     margin-left: 50px;
     margin-top: 50px;
+    */
+    margin: 50px 0 0 50px;
     border: 10px solid red;
     border-radius: 50px;
 }

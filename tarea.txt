@@ -4,3 +4,8 @@
 - Enlazar mi archivo de apuntes comando y apuntes html con mis archivos de style.css e index.js
 - Agregar las etiquetas html nuevas a mi archivo de apuntes apuntes-html.html
 - Una vez terminado todo esto agregarlo y crear commit
+- Agregar a apuntes css las propiedades vistas en la clase
+- Apuntes js agregar como hacer los comentarios
+- Git remote add origin linkGitHub agregarlo, git remote -v tambien
+- Poner un color al texto 
+- Agregar git tag
