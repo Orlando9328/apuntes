@@ -14,3 +14,4 @@
 - Crear nueva llave ssho 
 - Agregar todo y comentarlo en la terminal
 - Agregar a css.html
+- Creo rama tarea, agrego cambios, la fuciono, subo a servidor.

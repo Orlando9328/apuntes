@@ -1,7 +1,12 @@
 
+
 *{
     margin:0;
 
+}
+
+body{
+    background:url('../img/moroccan-flower-dark.webp');
 }
 
 @font-face {
