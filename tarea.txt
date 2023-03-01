@@ -1,17 +1,2 @@
-- Agregar modificaciones y hacer commit
-- Agregar comandos mkdir(crear carpeta), cd (seleccionar-entrar carpeta) y cd .. (Salir carpeta) al archivo apuntes comando
-- Recuperar cuenta de git
-- Enlazar mi archivo de apuntes comando y apuntes html con mis archivos de style.css e index.js
-- Agregar las etiquetas html nuevas a mi archivo de apuntes apuntes-html.html
-- Una vez terminado todo esto agregarlo y crear commit
-- Agregar a apuntes css las propiedades vistas en la clase
-- Apuntes js agregar como hacer los comentarios
-- Git remote add origin linkGitHub agregarlo, git remote -v tambien
-- Poner un color al texto 
-- Agregar git tag
 - Agregar tipo de dato objeto y array multidimencional a apuntes js
-- Agregar font y direccion de google font a apuntes css
-- Crear nueva llave ssho 
-- Agregar todo y comentarlo en la terminal
-- Agregar a css.html
-- Creo rama tarea, agrego cambios, la fuciono, subo a servidor.
+- Creo rama tarea, agrego cambios, agrego tag, la fuciono, subo a servidor.
