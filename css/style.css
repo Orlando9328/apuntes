@@ -1,5 +1,4 @@
-
-
+/*Estilos principales*/
 *{
     margin:0;
 
@@ -14,6 +13,7 @@ body{
     src: url('../fonts/ClimateCrisis-Regular.ttf');
 }
 
+/*Estilos generales*/
 h1{
     color: aqua;
     background-color: brown;
@@ -21,7 +21,7 @@ h1{
 }
 
 li{
-    background-color: blueviolet;
+    /*background-color: blueviolet;*/
 
 }
 
@@ -54,4 +54,27 @@ div{
     margin: 50px 0 0 50px;
     border: 10px solid red;
     border-radius: 50px;
+}
+
+/*Responsive design telefono*/
+@media screen and (max-width: 480px){
+    body{
+        background:url('../img/watercolor.webp');
+    }
+    
+
+}
+
+@media screen and (min-width: 481px) and (max-width: 760px){
+    body{
+        background:url('../img/more-leaves-on-green.png');
+    }
+    
+}
+
+@media screen and (min-width: 761px){
+    body{
+        background:url('../img/moroccan-flower-dark.webp');
+    }
+    
 }
