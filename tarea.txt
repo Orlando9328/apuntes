@@ -1,5 +1,3 @@
-- Agregar tipo de dato objeto y array multidimencional a apuntes js
-- Creo rama tarea, agrego cambios, agrego tag, la fuciono, subo a servidor.
 - Crear un snipet que sea etiqueta header, salto de linea, section, salto de linea y etiqueta footer
-- Archivo de apuntes de apuntes-sea.html y agregar los sitios que vimos de seo
+- Archivo de apuntes de apuntes-seo.html y agregar los sitios que vimos de seo
 - Add, push, tag y agregar todo a github
