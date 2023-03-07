@@ -20,11 +20,6 @@ h1{
     font-family: 'Shad Into Light', cursive;
 }
 
-li{
-    /*background-color: blueviolet;*/
-
-}
-
 a{
     background-color: burlywood;
 }
@@ -79,6 +74,20 @@ div{
     
 }
 
-@media (min-width: ) {
+@media (min-width: 80xp){
+    
+}
+
+h1 {
+    background-color: darkblue;
+}
+
+header {
+    
+}
+section {
+    
+}
+footer {
     
 }
