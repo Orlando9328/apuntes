@@ -1,3 +1,1 @@
-- Crear un snipet que sea etiqueta header, salto de linea, section, salto de linea y etiqueta footer
-- Archivo de apuntes de apuntes-seo.html y agregar los sitios que vimos de seo
-- Add, push, tag y agregar todo a github
+- Agregar instrucciones de como crear un snnipet
