@@ -1,1 +1,5 @@
 - Agregar instrucciones de como crear un snnipet
+- Crear una funcion que multiplique 2 numeros y de resultado / Listo
+- funcion que divida 2 numeros / Listo
+- Funcion que imprima el iva(.16) de 2 productos / Listo
+- Guardar, agregar y comentar. Git push origin master y tag.
