@@ -43,3 +43,15 @@ function iva(num1, num2){
 }
 
 console.log(iva(40,40));
+
+const cajaDos = 7;
+const cajaTres = "perro";
+
+console.log(typeof(cajaDos));
+
+if (cajaTres == "perro") {
+    console.log("La constante contiene la palabra perro");
+}else{
+    console.log("ERROR");
+}
+
