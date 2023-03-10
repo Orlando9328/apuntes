@@ -1,0 +1,161 @@
+commit 7283184ab22554f22e285ce361ac38712501e80f
+Author: Orlando Sorto <orlando.sorto9328@gmail.com>
+Date:   Wed Mar 8 00:31:23 2023 -0600
+
+    Se agregan cambios
+
+commit 8c1ca0fd76f8b99de0e79ceac541b59697a826e3
+Author: Orlando Sorto <orlando.sorto9328@gmail.com>
+Date:   Mon Mar 6 21:26:48 2023 -0600
+
+    Se agregan cambios
+
+commit 886ea479880246b1cf2e662fb4b457c51312083f
+Author: Orlando Sorto <orlando.sorto9328@gmail.com>
+Date:   Mon Mar 6 20:31:07 2023 -0600
+
+    Se agregan cambios y archivo apuntes-seo.html
+
+commit de1ff64dc0b875d14770d296f3c7cbca0886a52e
+Author: Orlando Sorto <orlando.sorto9328@gmail.com>
+Date:   Sat Mar 4 12:30:44 2023 -0600
+
+    Se agregan mas cambios
+
+commit 904b161d74334ea2aac74050bffc41c7e4b9e5ed
+Author: Orlando Sorto <orlando.sorto9328@gmail.com>
+Date:   Sat Mar 4 12:27:59 2023 -0600
+
+    Se agregan cambios
+
+commit c6dc6fd616b291b5a98863f7e48abf88abc357c0
+Author: Orlando Sorto <orlando.sorto9328@gmail.com>
+Date:   Sat Mar 4 10:55:31 2023 -0600
+
+    Se modifica apuntes css.html
+
+commit 13ba7f76989bde045d85b97ee77bb01f5c93fd8c
+Author: Orlando Sorto <orlando.sorto9328@gmail.com>
+Date:   Wed Mar 1 23:20:21 2023 -0600
+
+    Se agregan fotos a style.css
+
+commit 361e67246bae341cf8935a993030c98b783f3423
+Author: Orlando Sorto <orlando.sorto9328@gmail.com>
+Date:   Tue Feb 28 22:47:35 2023 -0600
+
+    Se modifica apuntes css, js y tareas, ademas se crea rama tarea.
+
+commit c4ed960ede58fad2b005aead6c5231c8130bb7b6
+Author: Orlando Sorto <orlando.sorto9328@gmail.com>
+Date:   Mon Feb 27 23:04:36 2023 -0600
+
+    Se agregan cambios
+
+commit b0eb646790d66e6e3cec81f2ac32ca1037be4696
+Author: Orlando Sorto <orlando.sorto9328@gmail.com>
+Date:   Mon Feb 27 22:48:45 2023 -0600
+
+    Agregue muchas cosas
+
+commit d9b01f2c953ab41ee57060a79a895785fa0ec8f3
+Author: Orlando Sorto <orlando.sorto9328@gmail.com>
+Date:   Mon Feb 27 22:16:08 2023 -0600
+
+    Agregue cambios a los archivos html
+
+commit 6a714d6f804b4a7e4badd14d816cec01a30d8b0e
+Author: Orlando Sorto <orlando.sorto9328@gmail.com>
+Date:   Sat Feb 25 12:25:57 2023 -0600
+
+    Agregue tareas al archivo tareas.txt
+
+commit 761f1db13f02907c19ef50d8fca2bdbe2ec12484
+Author: Orlando Sorto <orlando.sorto9328@gmail.com>
+Date:   Sat Feb 25 12:23:11 2023 -0600
+
+    Agregue cambios a apuntes git, js, css e index.js
+
+commit c8495d1054f076be7cee78b98324f7bb2eb86f7c
+Author: Orlando Sorto <orlando.sorto9328@gmail.com>
+Date:   Sat Feb 25 11:00:56 2023 -0600
+
+    Se agregan cambios a apuntes js y apuntes git
+
+commit 0ef262fc5439efdf59baf56bbd867f68a8c25431
+Author: Orlando Sorto <orlando.sorto9328@gmail.com>
+Date:   Wed Feb 22 23:37:26 2023 -0600
+
+    Se agregan cambios a apuntes git
+
+commit 667fd900cbd234a2434a29fc9ba4d5f93d511b05
+Author: Orlando Sorto <orlando.sorto9328@gmail.com>
+Date:   Wed Feb 22 23:09:49 2023 -0600
+
+    Aprendi propiedades de css
+
+commit 223c1b1508f82a256977de36c6a901cbb571884b
+Author: Orlando Sorto <orlando.sorto9328@gmail.com>
+Date:   Wed Feb 22 22:50:51 2023 -0600
+
+    Cree mi archivo de apuntes de js
+
+commit 501e9a2b4c7a16005dde28dc692b63fcf6988dd8
+Author: Orlando Sorto <orlando.sorto9328@gmail.com>
+Date:   Wed Feb 22 22:20:52 2023 -0600
+
+    Agregue nostas a mis apuntes de comandos de linux
+
+commit 4e2620ec525f89164c581b6ccb03889b91d06b1d
+Author: Orlando Sorto <orlando.sorto9328@gmail.com>
+Date:   Wed Feb 22 22:07:22 2023 -0600
+
+    Cree mis puntes de css
+
+commit 0d6a2f5563f99b17ec0b7a5cb29757dc6740c981
+Author: Orlando Sorto <orlando.sorto9328@gmail.com>
+Date:   Tue Feb 21 23:04:01 2023 -0600
+
+    Se agregan nuevos comandos y etiquetas
+
+commit 3aeb686d62bfae7b414bcf96ae16df33fcb43e4c
+Author: Orlando Sorto <orlando.sorto9328@gmail.com>
+Date:   Mon Feb 20 23:39:02 2023 -0600
+
+    Se agregaron nuevos comandos
+
+commit 5440fdb9d3bd29ebee04d65f50b8d229ae503031
+Author: Orlando Sorto <orlando.sorto9328@gmail.com>
+Date:   Mon Feb 20 23:12:44 2023 -0600
+
+    Aguregue etiquetas html y estilos con css
+
+commit 4a0132f7bbb985242bb37fb28489ef44b1961832
+Author: Orlando Sorto <orlando.sorto9328@gmail.com>
+Date:   Mon Feb 20 22:37:13 2023 -0600
+
+    Se agrego un comando nuevo de git
+
+commit f879ba189019378f844465b6704d2c24b80a19cc
+Author: Orlando Sorto <orlando.sorto9328@gmail.com>
+Date:   Mon Feb 20 22:32:27 2023 -0600
+
+    Agregue tres comandos nuevos
+
+commit 6a7f0edafcd1d02fcb3901c6105912df3c7d3aa2
+Author: Orlando Sorto <orlando.sorto9328@gmail.com>
+Date:   Sat Feb 18 12:10:00 2023 -0600
+
+    Agregue para que sirve comando log
+
+commit 6250643097ec0c482a4023aeea1d573586fdc649
+Author: Orlando Sorto <orlando.sorto9328@gmail.com>
+Date:   Sat Feb 18 12:01:23 2023 -0600
+
+    Agregue notas a mis apuntes
+
+commit 6d2fc1092565c572f491b39d12c2efd064714d8e
+Author: Orlando Sorto <orlando.sorto9328@gmail.com>
+Date:   Sat Feb 18 11:28:10 2023 -0600
+
+    Cree dos archivos html para agregar mis apuntes
