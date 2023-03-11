@@ -3,3 +3,25 @@
 - funcion que divida 2 numeros / Listo
 - Funcion que imprima el iva(.16) de 2 productos / Listo
 - Guardar, agregar y comentar. Git push origin master y tag.
+- 
+Este es un experimento para utilzar el editor VIM
+1.- vim nombreDelArchivo: Este comando sirve para abrir un archivo
+2.- "i" Me sirve para empezar a escribir en el archivo 3.- "esc" Al presionar la tecla esc dejo de escribir 4.- ":wq" Este comando me sirve para guardar los cambios y salirme del editor
+
+Esta lista es para moverme rapido en vim
+1.- GG movia a la ultima linea 
+2.- gg Nos lleva al inicio del archivo
+3.- "15G" Te lleva a la linea 15  
+4.- $ Te lleva al final de la linea
+5.- 0 Te lleva al principio de la linea
+6.-
+7.-
+
+
+
+
+
+
+
+
+
